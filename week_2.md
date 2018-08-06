@@ -17,4 +17,4 @@ Dilpreet introduced us to our project and goals for this semester. Dave is a sma
 * Feature extraction of sentences
 * Using these features to predict a questions intent 
 
-* HIGH LEVEL: Have Dave usefullly/naturally respond to questions
+* HIGH LEVEL: Have Dave usefully/naturally respond to questions
