@@ -1,4 +1,4 @@
-# Week 3 - Experiments with libraries
+# Week 4 - Experiments with libraries
 
 ### Gensim
 We got gensim working within a python virtual env. With a small example corpus of 15 sentences (5 topics, 3 sentences each), we removed "stop words", vectorized and did a tfdif transform on our examples. We trained a LSI model (Latent Semantic Indexing) to rank our query sentence against 15 example sentences to determine intent. 
